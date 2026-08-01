@@ -1,6 +1,6 @@
 # Munenori Saito
 
-九州工業大学 工学部 機械知能工学科 知能制御工学コース
+Department of Mechanical Intelligence and Control Engineering, Kyushu Institute of Technology
 
 ---
 
@@ -22,15 +22,17 @@
 
 ## 🚀 Experience
 
-### 🤖 Engineering
-* **ROX (モルテン主催ロボコン)**
-  * インターンとして参加
-  * 実機ロボットの制御実装およびソフトウェア開発
+### 🤖 Engineering & Hackathons
+* **ROX (Robotics Competition hosted by Molten)**
+  * Participated as an intern
+  * Implemented software and control systems for physical robots
+* **Hackathon in the US**
+  * Joined an overseas hackathon and developed software/hardware solutions in an international team environment
 
 ### 🌌 Activity
-* **Space Launch in 九州（実行委員会）**
-  * 実行委員会メンバー（協賛金獲得・スポンサー対応担当）
-  * 九州の学生と宇宙関連企業をつなぐイベントの企画・運営
+* **Space Launch in Kyushu (Executive Committee)**
+  * Committee Member (Sponsor Relations / Fundraising)
+  * Organized events connecting students in Kyushu with space industry companies
 
 ---
 
