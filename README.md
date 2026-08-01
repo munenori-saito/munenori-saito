@@ -20,23 +20,23 @@ Department of Mechanical Intelligence and Control Engineering, Kyushu Institute 
 </p>
 ---
 
-## 🚀 Experience
+## Experience
 
-### 🤖 Engineering & Hackathons
+### Engineering & Hackathons
 * **ROX (Robotics Competition hosted by Molten)**
   * Participated as an intern
   * Implemented software and control systems for physical robots
 * **Hackathon in the US**
   * Joined an overseas hackathon and developed software/hardware solutions in an international team environment
 
-### 🌌 Activity
+### Activity
 * **Space Launch in Kyushu (Executive Committee)**
   * Committee Member (Sponsor Relations / Fundraising)
   * Organized events connecting students in Kyushu with space industry companies
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=munenori-saito&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
