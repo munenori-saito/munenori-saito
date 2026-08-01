@@ -1,32 +1,35 @@
-# Hi there, I'm Munenori Saito 👋
+# Munenori Saito
 
-九州工業大学で機械知能工学・知能制御を学びながら、ロボット制御や宇宙系イベントの運営、エンジニアリングに取り組んでいます！
-
----
-
-## 🛠 Tech Stack & Tools
-
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-</p>
-
-### Robotics & Tools
-<p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+九州工業大学 工学部 機械知能工学科 知能制御工学コース
 
 ---
 
-## 🚀 What I Do
-* 🤖 **Robotics & Control:** ロボット制御や組込みシステムに関心を持って開発・勉強中
-* 🌌 **Space Tech:** 宇宙業界と学生をつなぐイベント運営（Space Launch in 九州）
-* 🚲 **Interests:** ロードバイク / エヴァンゲリオン
+## 🛠 Tech Stack
+
+* **Languages:** C++, C, Python
+* **Robotics / Middleware:** ROS2
+* **Tools / Environment:** Git, GitHub, Docker, Linux, VS Code
+
+---
+
+## 🚀 Experience
+
+### 🤖 Engineering
+* **ROX (モルテン主催ロボコン)**
+  * インターンとして参加
+  * 実機ロボットの制御実装およびソフトウェア開発
+
+### 🌌 Activity
+* **Space Launch in 九州（実行委員会）**
+  * 実行委員会メンバー（協賛金獲得・スポンサー対応担当）
+  * 九州の学生と宇宙関連企業をつなぐイベントの企画・運営
+
+---
+
+## 🚲 Interests
+
+* ロードバイク
+* エヴァンゲリオン
 
 ---
 
@@ -37,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munenori-saito&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munenori-saito&theme=tokyonight" alt="GitHub Streak" />
 </p>
